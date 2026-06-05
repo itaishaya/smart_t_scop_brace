@@ -154,7 +154,7 @@ pip install numpy pandas matplotlib scikit-learn xgboost
 
 
 
-\## Execution
+## Execution
 
 1. Clone this repository to your local machine.
 2. Ensure all the .csv data files are in the same directory as t_scope_ml_pipeline.py.
